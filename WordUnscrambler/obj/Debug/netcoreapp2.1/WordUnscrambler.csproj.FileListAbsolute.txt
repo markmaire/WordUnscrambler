@@ -1,0 +1,11 @@
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp2.1\WordUnscrambler.deps.json
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp2.1\WordUnscrambler.runtimeconfig.json
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp2.1\WordUnscrambler.runtimeconfig.dev.json
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp2.1\WordUnscrambler.dll
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp2.1\WordUnscrambler.pdb
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp2.1\WordUnscrambler.csprojAssemblyReference.cache
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp2.1\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp2.1\WordUnscrambler.AssemblyInfoInputs.cache
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp2.1\WordUnscrambler.AssemblyInfo.cs
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp2.1\WordUnscrambler.dll
+C:\Users\Mark.Maire\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp2.1\WordUnscrambler.pdb
